@@ -48,7 +48,7 @@ function App(props){
         {/* HEADER */}
         <div className="header">  
         <div className="topics">
-        <img src="https://i.ibb.co/bLwQkqc/Copy-of-Online-Music-Show-Facebook-Shared-Image-Made-with-Poster-My-Wall.jpg"></img>       
+        <img src="logo.png"></img>       
         <small>
         <span>About</span>
         <span>Products</span>
